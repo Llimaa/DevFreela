@@ -22,7 +22,9 @@ Mas quais funcionalidades foram implementadas?
 
 ## Swagger
 
-Ferramenta que simplifica a documentação e testes na API. Ele consegue gerar uma interface gráfica contendo todos os pontos de acesso (Endpoints) da API, permitindo realizar requisições diretamente em sua interface.
+Ferramenta que simplifica a documentação de APIs.
+
+. Ele gera uma interface gráfica contendo todos os pontos de acesso (Endpoints) da API, permitindo realizar requisições diretamente em sua interface.
 ![image](https://user-images.githubusercontent.com/76961685/128607463-b449e0ca-1b39-4cce-9b8e-38fb1fa469e2.png)
 
 ---
@@ -32,6 +34,7 @@ Também conhecida como **Onion Architecture**, ou Arquitetura Cebola.
 Tem como foco o **domínio** do sistema, tendo em sua essência o DDD - Domain Driven Design, sendo dividida em 4 camadas principais:
 
 - Core, Infrastructure, Application e API
+
 ![image](https://user-images.githubusercontent.com/76961685/128607691-bbeeb09f-aeaf-4baa-8019-fcd73942ca5a.png)
 
 ---
